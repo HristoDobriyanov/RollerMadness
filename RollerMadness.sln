@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerMadness.Plugins", "RollerMadness.Plugins.csproj", "{46CC14B0-17CB-6509-1208-A0A4E7044B29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollerMadness", "RollerMadness.csproj", "{065DD073-0E2B-E380-23AE-66EB7279C9E4}"
